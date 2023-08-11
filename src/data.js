@@ -35,7 +35,7 @@ export const navigationData = [
 ];
 
 export const heroData = {
-  title: ` Conoce la Ley 2101 del 2021.`,
+  title: ` Ley 2101 del 2021.`,
   subtitle:
     'El 15 de julio de este año entro en vigencia la Ley 2101 del 2021, que tiene como propósito la reducción de jornada laboral en Colombia.',
   btnText: 'Leer más ',
